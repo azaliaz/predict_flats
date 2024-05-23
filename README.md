@@ -1,1 +1,3 @@
-# predict_flats
+### to run
+
+# streamlit run web_app.py
